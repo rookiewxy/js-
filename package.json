@@ -1,0 +1,23 @@
+{
+  "name": "js-design-mode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookiewxy/js-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rookiewxy/js-/issues"
+  },
+  "homepage": "https://github.com/rookiewxy/js-#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@types/node": "^17.0.18"
+  }
+}
